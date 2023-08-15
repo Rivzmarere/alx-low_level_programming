@@ -7,6 +7,7 @@
  *  Description: A column of asterisks on the left side,
  *  Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
