@@ -2,7 +2,7 @@
 
 /**
  * main - prints the lowercase alphabet in reverse,
- * 
+ *
  * Description:  A column of asterisks on the left side
  * Return: Always 0 (Success)
  */
