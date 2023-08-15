@@ -2,7 +2,7 @@
 
 /**
  *  main - Prints the alphabet.
- * 
+ *
  *  Description:  A column of asterisks on the left side,
  *  Return: Always 0 (Success)
  */

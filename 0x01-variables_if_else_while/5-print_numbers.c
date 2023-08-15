@@ -2,7 +2,7 @@
 
 /**
  *  main - Prints numbers from 0 to 9.
- *  
+ *
  *  Description:  A column of asterisks on the left side,
  *  Return: Always 0 (Success)
  */
