@@ -3,8 +3,6 @@
 /**
  * main - fibonacci <3
  *
- * Purpose - no hardcode
- *
  * Description:  A column of asterisks on the left side,
  * Return:  (Success)
  */
