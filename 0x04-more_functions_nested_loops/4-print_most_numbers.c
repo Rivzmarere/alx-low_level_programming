@@ -6,7 +6,6 @@
  * Description: Does my stuff explained.
  * return: void
  */
-
 void print_most_numbers(void)
 {
 	char c;
